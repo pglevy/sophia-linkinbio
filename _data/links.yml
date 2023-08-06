@@ -1,18 +1,15 @@
-- text: Website
-  url: https://www.google.com/
-  icon: globe
-- text: GitHub
-  url: https://github.com/
-  icon: github
-- text: Twitter
-  url: https://www.twitter.com/
-  icon: twitter
 - text: LinkedIn
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/sophia-levy-92ab2862/
   icon: linkedin
-- text: Facebook
-  url: https://www.facebook.com/
-  icon: facebook
-- text: Instagram
-  url: https://www.instagram.com/
-  icon: instagram
+- text: Sophia Music Studio on YouTube
+  url: https://www.youtube.com/@SophiaMusicStudio/videos
+  icon: youtube
+- text: Indonesian album on Spotify
+  url: https://open.spotify.com/album/2ytcUMtDIEqD2PPbaxh3EC
+  icon: spotify
+- text: Music for Television
+  url: https://heavyhittersmusic.disco.ac/lib/3198/artists/1330659
+  icon: tv
+- text: Songwriting Catalog (ASCAP)
+  url: https://www.ascap.com/repertory#/ace/writer/405934169/LEVY%20SOPHIA%20MARIE
+  icon: file-music
