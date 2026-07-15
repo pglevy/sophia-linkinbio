@@ -5,4 +5,4 @@ avatar-alt-text: "This is a description of what my avatar looks like for people 
 interest-prefix: "My interests:"
 ---
 
-I teach music tech for kids who want to have fun creating and performing music.
+I founded TŪN Music-Centered Wellness, where I invite people to reconnect with themselves through music, meditation, creative expression, and mindful movement.
