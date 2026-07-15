@@ -6,5 +6,6 @@ interest-prefix: "My interests:"
 ---
 
 Music Professional | Wellness Entrepreneur | Founder of TŪN Music-Centered Wellness
+
 I am helping people reconnect with themselves through music, meditation, creative musical expression, and mindful movement
 
